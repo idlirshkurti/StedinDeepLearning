@@ -1,7 +1,7 @@
 Stedin Data Science Analytics Community
 =======================================
 
-### Code, images and data used for the Data Science Analytics Community 'Deep Learning' session. 
+### Code, images and data used for the Data Science Analytics Community Deep Learning session. 
 
 #### TensorFlow installation (Windows)
 
